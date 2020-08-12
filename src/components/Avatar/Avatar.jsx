@@ -4,7 +4,7 @@ import * as S from './avatarCss';
 
 
 const Avatar = () => {
-    // eq: "nome do arquibo que possuí na pasta do projeto images". subindo updated
+    // eq: "nome do arquibo que possuí na pasta do projeto images".
     const {
         avatarImage: {
             childImageSharp: { fluid }
