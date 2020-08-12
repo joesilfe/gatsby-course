@@ -21,6 +21,8 @@ function onServiceWorkerUpdateReady() {
     const root = document.createElement('div');
     document.body.appendChild(root);
 
+    console.log('onServiceWorkerUpdateReady: tem cache')
+
     ReactDOM.render(<SWUpdater />, root);
 }
 
