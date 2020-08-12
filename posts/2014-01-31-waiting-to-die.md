@@ -5,7 +5,7 @@ thumbnail: assets/img/volcano.jpg
 background: "#7d669e"
 date: 2020-06-11T03:23:29.000Z
 image: /assets/img/mussum-ipsum.jpg
-title: Waiting to die - com teste SW
+title: Waiting to die - com teste SW 2
 description: So say goodbye to love and hold your head up high - com teste SW
 introduction: Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse
   platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem.
@@ -18,7 +18,7 @@ categories:
   - com teste SW
 category: svg
 ---
-* com teste SW
+* Waiting to die - com teste SW 2
 
 . Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
 
